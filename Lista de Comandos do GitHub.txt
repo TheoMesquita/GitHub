@@ -1,0 +1,39 @@
+“mkdir git” criou o git
+
+“Cd” entra na pasta
+
+“cd ..” sai da pasta que você esta
+
+“Ls” mostra onde você tá
+
+“ls -a” mostra pasta oculta
+
+“clear” limpa
+
+“git config --global user.(nome or e-mail)” assina
+
+“git config --unset uer.(nome or e-mail)” remove assinatura
+
+“git clone” clona o GitHub na sua maquina
+
+“git add” insere
+
+“git add .” insere automatico
+
+“nano” edita arquivo
+
+“control + O” salva o arquivo
+
+“cat” mostra conteúdo
+
+“touch” cria pasta
+
+“git status” checa o que você fez
+
+“git commit -m “” “ fecha a caixa
+
+“git push” atualiza no github
+
+“git pull” puxa do GitHub
+
+“rm -rf” apaga pastas
